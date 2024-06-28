@@ -1,0 +1,14 @@
+set %version%=1.0
+acc
+	setname=name=D3NOAH if %name%==f (
+}You can't do this or it failed.
+)
+
+	acc=1
+%acc%
+		jkl=1
+				setsideview=sideview=88
+		jkl=2 
+				setview=view=901
+	%name%
+} failed.
