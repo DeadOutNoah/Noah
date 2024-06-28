@@ -14,8 +14,7 @@ echo ----------------------------
 set /p choice=Enter your choice (1-4): 
 
 if "%choice%"=="1" (
-    echo MainMenu
-    echo 
+    echo Menu not working....
     pause
     goto menu
 ) 
